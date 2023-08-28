@@ -1,0 +1,6 @@
+com\day5\Model\StudentModel.class
+com\day5\Repository\Studentrepo.class
+com\day5\Day9RelationalMappingApplication.class
+com\day5\Controller\Day9Controller.class
+com\day5\Repository\Addressrepo.class
+com\day5\Model\Address.class
